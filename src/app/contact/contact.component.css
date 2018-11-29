@@ -1,0 +1,16 @@
+li button {
+    margin: .25em;
+}
+
+.nav-link {
+    margin: 0px 5% 0px 5%;
+}
+
+.contact-grid {
+    display: block;
+    margin: 10px auto;
+    width: 90%;
+    height: 85vh;
+    max-height: 85vh;
+    overflow: auto;
+}
